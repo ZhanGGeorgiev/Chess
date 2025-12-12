@@ -1,0 +1,13 @@
+# Visual Studio temporary files
+.vs/
+out/
+x64/
+x86/
+Debug/
+Release/
+*.user
+*.suo
+*.pdb
+*.obj
+*.exe
+*.ipch
